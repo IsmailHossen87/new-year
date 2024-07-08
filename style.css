@@ -171,7 +171,9 @@ h2 {
     margin: 0 auto;
     position: relative;   
 }
-
+.holiday-text-container p{
+    text-align: center;
+}
 .solid-color{
     background-color: #FF0000;
     Width:1100px;
